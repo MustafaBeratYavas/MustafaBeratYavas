@@ -1,5 +1,5 @@
 # ABOUT ME
-I am a Mathematical Engineering student at Yıldız Technical University, actively developing my knowledge and skills in the fields of **Machine Learning** and **Data Science**. Combining theory with application, I am a founding member of the [YILDIZ USV](https://github.com/YILDIZ-USV) GitHub organization, where we collaborate on technical projects. I am proud to have been a finalist in the *TEKNOFEST 2025 Unmanned Marine Vehicle Competition* with this team.
+I am a Mathematical Engineering student at Yıldız Technical University, actively developing my knowledge and skills in the fields of Machine Learning and Data Science. Combining theory with application, I am a founding member of the [YILDIZ USV](https://github.com/YILDIZ-USV) GitHub organization, where we collaborate on technical projects. I am proud to have been a finalist in the *TEKNOFEST 2025 Unmanned Marine Vehicle Competition* with this team.
 Passionate about leveraging data to create practical and innovative solutions. I welcome opportunities for collaboration.
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafa.yavas.official@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-berat-yavas)
