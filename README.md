@@ -1,7 +1,5 @@
 # ABOUT ME
-I am a Mathematical Engineering student at Yıldız Technical University, actively developing my knowledge and skills in the fields of **Machine Learning** and **Data Science**.
-
-Combining theory with application, I am a founding member of the [YILDIZ USV](https://github.com/YILDIZ-USV) GitHub organization, where we collaborate on technical projects. I am proud to have been a finalist in the *TEKNOFEST 2025 Unmanned Marine Vehicle Competition* with this team.
+I am a Mathematical Engineering student at Yıldız Technical University, actively developing my knowledge and skills in the fields of **Machine Learning** and **Data Science**. Combining theory with application, I am a founding member of the [YILDIZ USV](https://github.com/YILDIZ-USV) GitHub organization, where we collaborate on technical projects. I am proud to have been a finalist in the *TEKNOFEST 2025 Unmanned Marine Vehicle Competition* with this team.
 
 > Passionate about leveraging data to create practical and innovative solutions. I welcome opportunities for collaboration.
 
