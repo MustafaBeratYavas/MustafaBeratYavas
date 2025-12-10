@@ -6,9 +6,9 @@
 
 ## Contact:
 
-For inquiries or collaboration, contact me via email or LinkedIn.
+For inquiries or collaboration, contact me via email.
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafa.yavas.official@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-berat-yavas)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafa.yavas.official@outlook.com)
 
 # TECHNICAL STACK
 
